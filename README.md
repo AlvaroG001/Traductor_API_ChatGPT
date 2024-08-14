@@ -23,22 +23,26 @@ Este proyecto es una aplicación de traducción multilenguaje que utiliza la API
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/AlvaroG001/Traductor_API_ChatGPT.git
+   ```
    
 2. Instala las dependencias en un entorno virtual:
   ```bash
   python3 -m venv myenv
   source myenv/bin/activate
   pip install -r requirements.txt
+  ```
 
 3. Crea un archivo .env en el directorio principal con tu clave API de OpenAI:
   ```bash
   OPENAI_API_KEY=tu_clave_api_aqui
+  ```
 
 ## Uso
 
 Ejecuta el script principal:
   ```bash
   python script_traductor.py
+  ```
 
 Ingresa el idioma de origen, el idioma al que deseas traducir, y el texto a traducir.
 Haz clic en el botón "Traducir" para obtener las traducciones.
