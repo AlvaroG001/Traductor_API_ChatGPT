@@ -22,4 +22,4 @@ Este proyecto es una aplicación de traducción multilenguaje que utiliza la API
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio](https://github.com/AlvaroG001/Traductor_API_ChatGPT).git
+   git clone https://github.com/AlvaroG001/Traductor_API_ChatGPT.git
